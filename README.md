@@ -7,6 +7,45 @@ Project Overview
 
 This project aims to build a comprehensive digital dashboard for analyzing and predicting outcomes of police traffic stops. By leveraging data science techniques, SQL databases, and interactive dashboards, the project provides actionable insights for law enforcement agencies and policymakers to improve road safety, transparency, and operational efficiency.
 
+🚓 SecureCheck Dashboard: Police Post Digital Ledger
+
+[![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+A modern, interactive dashboard for analyzing and predicting police traffic stop outcomes using Python, SQL, and Streamlit.
+
+📂 Project Structure
+
+🚀 Quick Start
+
+1. Clone the repository:
+    ```bash
+    git clone https://[github.com/yourusername/yourrepo.git](https://github.com/Vaishnaviwork/Police_Ledger_logs-Project)
+    cd yourrepo
+    ```
+
+2. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Set up your database:
+    - Use [PostgreSQL](https://www.postgresql.org/) and create a table as described in the code.
+    - Update the `db_url` in `Police_ledger_projectCode.py` with your credentials.
+
+4. Run the dashboard:
+    ```bash
+    streamlit run Police_ledger_projectCode.py
+    ```
+
+📚 Resources
+
+- [Streamlit Documentation](https://docs.streamlit.io/)
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+- [Plotly Express](https://plotly.com/python/plotly-express/)
+- [Sample Police Stop Data (Stanford Open Policing Project)](https://openpolicing.stanford.edu/data/)
+
+
 Key Components
 
 1. Data Collection & Storage
@@ -45,5 +84,9 @@ User-Friendly: The Streamlit dashboard makes complex analytics accessible to non
 
 Conclusion
 This project demonstrates how modern data science tools can transform raw police log data into actionable intelligence. By integrating Python, postgreSQL, render and Streamlit, it delivers a robust, interactive platform for monitoring, analyzing, and improving police traffic stop operations.
+
+⭐️ Show your support
+
+If you like this project, please ⭐️ the repo and share it!
  
 
