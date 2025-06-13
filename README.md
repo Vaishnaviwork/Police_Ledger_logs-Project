@@ -3,6 +3,7 @@ Project Title:
 SecureCheck Dashboard: A Digital Ledger for Police Post Logs
 
 Project Overview
+
 This project aims to build a comprehensive digital dashboard for analyzing and predicting outcomes of police traffic stops. By leveraging data science techniques, SQL databases, and interactive dashboards, the project provides actionable insights for law enforcement agencies and policymakers to improve road safety, transparency, and operational efficiency.
 
 Key Components
